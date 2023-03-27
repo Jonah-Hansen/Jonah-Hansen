@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Jonah Hansen!</h1>
 <h3 align="center">Full Stack Developer, Technology Enthusiast, and Cat Dad.</h3>
 
- <img style='position: absolute; top: 20px; right: 20px;' src="https://komarev.com/ghpvc/?username=jonah-hansen&label=Profile%20views&color=0e75b6&style=flat" alt="jonah-hansen" />
+ 
 
 <h2 align="center">Connect with me on LinkedIn: <a href="https://linkedin.com/in/jonah-hansen-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonah-hansen-dev" height="30" width="40" /></a>
 </h2>
@@ -13,3 +13,4 @@
 <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonah-hansen&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jonah-hansen" /></p>
 
 <p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonah-hansen&show_icons=true&theme=tokyonight&locale=en" alt="jonah-hansen" /></p>
+<p align='center'><img align='center' src="https://komarev.com/ghpvc/?username=jonah-hansen&label=Profile%20views&color=0e75b6&style=flat" alt="jonah-hansen" /></p>
