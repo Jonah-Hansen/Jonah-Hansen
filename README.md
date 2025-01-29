@@ -1,7 +1,3 @@
-<h1 align="center">Hi There 👋, I'm Jonah Hansen!</h1>
-<h3 align="center">Full Stack Developer, Technology Enthusiast, and Cat Dad.</h3>
-
- 
 
 <h2 align="center">Connect with me on LinkedIn: <a href="https://linkedin.com/in/jonah-hansen-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonah-hansen-dev" height="30" width="40" /></a>
 </h2>
